@@ -1,4 +1,11 @@
 Hola mon, El del costat dret osigui lalex es Gay.
+<<<<<<< HEAD
 
 
-modificat Biel 08/02/24
+=======
+Bon dia bona tarda y bona nit guapus
+
+yummy
+>>>>>>> 555496154dd4b48bbbf24c2f5b744bdc13dbf191
+
+mec
