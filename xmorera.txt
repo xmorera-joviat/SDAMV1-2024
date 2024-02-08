@@ -6,3 +6,6 @@ Canvi fet en la meva branca sobre el meu document en data 6/2/2024
  
 commit anterior: ebf2b9899a20b8035523762fac2960c32948c1e7
 
+
+08/02/2024 - Ibrahim
+
