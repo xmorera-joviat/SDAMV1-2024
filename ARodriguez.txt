@@ -1,6 +1,21 @@
 Hola mon, El del costat dret osigui lalex es Gay.
+<<<<<<< HEAD
+
+
+=======
 Bon dia bona tarda y bona nit guapus
 
 yummy
+<<<<<<< HEAD
 
 Dani Pérez estuvo aqui
+=======
+<<<<<<< HEAD
+>>>>>>> 555496154dd4b48bbbf24c2f5b744bdc13dbf191
+
+mec
+=======
+
+Modificat Marc Suets -08/02/2014
+>>>>>>> 9460eec7c4d122fce378c8eea82a3779bd0cbcfa
+>>>>>>> 126c82683b5b7ca997c4297ce0fb4e4f21b29900
