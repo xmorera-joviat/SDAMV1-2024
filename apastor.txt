@@ -1,3 +1,7 @@
 que pasa gente, yo soy alejandro pastor
+<<<<<<< HEAD
 
 Dani Perez estuvo aqui
+=======
+el alejandro es una persona muy bonita y precios
+>>>>>>> 5c34cd7661867e9cf694b93ba0b50cb0a801e31a
