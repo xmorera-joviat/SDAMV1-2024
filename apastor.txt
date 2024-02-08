@@ -1,7 +1,11 @@
 que pasa gente, yo soy alejandro pastor
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 Dani Perez estuvo aqui
+=======
+we are freedom but we are not dumb so we are freesmart
+>>>>>>> cf46e2ae334b92d328e0b84069eca02ab9c9a0a3
 =======
 el alejandro es una persona muy bonita y precios
 >>>>>>> 5c34cd7661867e9cf694b93ba0b50cb0a801e31a
