@@ -1,0 +1,12 @@
+Hola
+Daniel el travieso
+
+<<<<<<< HEAD
+=======
+doctor perez tenemos una emergencia
+>>>>>>> f16afd43f6eda0e00850aa1e854902df2ba1c5e8
+
+Motivation
+modificat Biel 08/02/24
+
+Milton ************¿¿¿*¿¿¿¿¿*******
