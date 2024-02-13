@@ -1,0 +1,13 @@
+Hola mon soc el Biel
+
+mec mec
+
+Les butifarres son de bones
+
+Bonny dog
+
+<<<<<<< HEAD
+A
+=======
+Marc Suets - 08/02/2024
+>>>>>>> c0312f811cd440b72b92701e349126d08b2f900b
