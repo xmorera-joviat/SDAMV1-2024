@@ -19,7 +19,7 @@ public class Optimitzacio {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println ("introdueix el nom: "); 
-		nom= sc.nextLine();
+		nom= sc.nextLine(); //aquest error es dona perquè s'han de declarar totes les variables com estàtiques. Una altra solució és crear i instanciar una classe nova
 		
 		System.out.println ("introdueix el 1r cognom: "); 
 		cognom1= sc.nextLine();
