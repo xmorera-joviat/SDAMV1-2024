@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /nopujat_acadevall.txt
+=======
+/noPujarAvargas.txt
+>>>>>>> a2f806215aa75331a33a62fa5e07cc1c1a606142
